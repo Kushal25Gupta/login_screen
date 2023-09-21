@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158672456199",
+    "project_id": "loginscreen-ce35c",
+    "storage_bucket": "loginscreen-ce35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158672456199:android:b5f022c6fbdd1c714f78a2",
+        "android_client_info": {
+          "package_name": "com.dheeraj.login_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgftKDBuSPbHPaHcfQS6E8Kvq374jYvVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
